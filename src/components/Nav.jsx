@@ -81,7 +81,7 @@ const Nav = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>Vreeny Task</Logo>
+          <Logo>E-Commerce</Logo>
         </Center>
         <Right>
           <MenuItem onClick={() => setPage(2)}>SIGN IN</MenuItem>
